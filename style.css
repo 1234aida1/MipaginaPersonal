@@ -1,0 +1,119 @@
+
+body{
+    background: #054729;
+}
+.navegador ul li a{
+   
+    font-family:Georgia;
+    font-weight: bold;
+    color:white;
+    margin: 0px 15px;
+    text-decoration: none;
+    text-align: none;
+
+    
+}
+.navegador ul li a:hover{
+color:rgb(16, 172, 24);
+}
+.navegador{
+    margin: 10px 30px 0px 10px;
+    background-color:#054729;
+    padding: 50px;
+   
+}
+.ul{
+    margin-left: 20%;
+    list-style: none;
+}
+.menu nav ul{
+    display: flex;
+
+}
+.margen {
+    margin:0 30px 30px 30px;
+    background-color:rgb(18, 133, 85);
+    padding: 40px;
+    font-family:Georgia, 'Times New Roman';
+    color: rgb(233, 212, 23);
+
+}
+.margen img{
+ width:600px;
+ height:300px;
+}
+.exp{
+    color:white;
+    font-family:'cambria';
+    font-size: 18px;
+    margin: 40px 100px 40px 100px;
+}
+.hobies{
+    margin:10px;
+    margin-right: 200px;
+    padding-left: 50px;
+    padding-right: 60px;
+    background-color: rgb(18, 133, 85);
+    color:white;
+    font-family: cambria;
+    font-weight: bold;
+    font-size: 20px;
+}
+.hobies p a{
+    margin:10px;
+    padding: 200px;
+    color:rgb(8, 241, 67);
+    font-family: cambria;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.princi{
+    display: flex; 
+    margin: 0 100px;
+    margin-left: 100px;
+}
+.f{
+    margin:10px;
+    margin-right: 80px;
+    padding: 10px;
+    background-color: rgb(18, 133, 85);
+    color:white;
+    font-family: cambria;
+    font-weight: bold;
+    font-size: 20px;
+}
+.f img{
+    width: 500px;
+    height: 350px;
+}
+.rec{
+ color: white;
+}
+.rec img{
+    width:325px;
+    height: 425px;
+}
+.rec1 img{
+    width:600px;
+    height: 400px;
+}
+.redes{
+    color:white;
+    font-size: 20px;
+    font-family: Cambria;
+    text-decoration: none;
+    text-align: none;
+}
+.redes p a{
+    color:white;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Cambria;
+    text-decoration: none;
+    text-align: none;
+}
+.redes p img{
+width: 20px;
+height: 20px;
+}
